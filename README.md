@@ -1,0 +1,1 @@
+This is a practise project done following udemy course and it covered the concept of using useEffect and also cleaning up the conents defined in useEffect.Go through it as a revision on how to use useEffect hook.
